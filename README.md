@@ -12,7 +12,7 @@ Slides: https://github.com/t2trg/2017-ietf99/tree/master/slides
 Notes: http://etherpad.tools.ietf.org:9000/p/notes-irtf-99-t2trg
 
 |  Time | Who           | Subject                                   | Docs                                     |
-|-------+---------------+-------------------------------------------+------------------------------------------|
+|-------|---------------|-------------------------------------------|------------------------------------------|
 | 13:30 | (Chairs)      | RG status update                          |                                          |
 | 13:40 | (Chairs+)     | WISHI report and way forward              | <https://github.com/t2trg/2017-07-wishi> |
 | 14:20 | Dirk Kutscher | (Chicago followon)                        |                                          |
