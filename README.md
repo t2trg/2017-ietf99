@@ -18,5 +18,5 @@ Notes: http://etherpad.tools.ietf.org:9000/p/notes-irtf-99-t2trg
 | 13:30 | (Chairs)      | RG status update                                                        |                                          |
 | 13:40 | (Chairs+)     | WISHI report and way forward                                            | <https://github.com/t2trg/2017-07-wishi> |
 | 14:20 | Dirk Kutscher | Edge Computing (Summary of Chicago discussion and ideas for next steps) |                                          |
-| 14:50 | Mohit Sethi   | (Chicago followon)                                                      |                                          |
+| 14:50 | Mohit Sethi   | Authorizing network access for IoT Devices                              |                                          |
 | 15:20 | (Chairs)      | Future activities: Documents and Meetings                               |                                          |
